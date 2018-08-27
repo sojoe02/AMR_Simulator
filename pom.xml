@@ -10,6 +10,7 @@
     <modules>
         <module>com.simulator.core</module>
         <module>com.simulator.service</module>
+        <module>com.simulator.dto</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -42,6 +43,5 @@
             </plugin>
         </plugins>
     </build>
-
 
 </project>
